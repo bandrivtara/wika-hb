@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5add964fe6328a6e60c16688ccacae78",
+    "revision": "6e0bdc5957ceb6a345c734222fdc9424",
     "url": "/wika-hb/index.html"
   },
   {
-    "revision": "4eab62011ce7b31db6e5",
-    "url": "/wika-hb/static/css/main.d58ba327.chunk.css"
+    "revision": "b72bf1fb9170b112a71e",
+    "url": "/wika-hb/static/css/main.0e35f35f.chunk.css"
   },
   {
     "revision": "ae9d1c54ed6644a4c9a3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wika-hb/static/js/2.f4150b10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4eab62011ce7b31db6e5",
-    "url": "/wika-hb/static/js/main.a65a7275.chunk.js"
+    "revision": "b72bf1fb9170b112a71e",
+    "url": "/wika-hb/static/js/main.a316d6fa.chunk.js"
   },
   {
     "revision": "19e339e1df6c498ef116",

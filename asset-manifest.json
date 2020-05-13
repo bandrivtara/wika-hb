@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wika-hb/static/css/main.d58ba327.chunk.css",
-    "main.js": "/wika-hb/static/js/main.a65a7275.chunk.js",
-    "main.js.map": "/wika-hb/static/js/main.a65a7275.chunk.js.map",
+    "main.css": "/wika-hb/static/css/main.0e35f35f.chunk.css",
+    "main.js": "/wika-hb/static/js/main.a316d6fa.chunk.js",
+    "main.js.map": "/wika-hb/static/js/main.a316d6fa.chunk.js.map",
     "runtime-main.js": "/wika-hb/static/js/runtime-main.8f2a3e52.js",
     "runtime-main.js.map": "/wika-hb/static/js/runtime-main.8f2a3e52.js.map",
     "static/js/2.f4150b10.chunk.js": "/wika-hb/static/js/2.f4150b10.chunk.js",
     "static/js/2.f4150b10.chunk.js.map": "/wika-hb/static/js/2.f4150b10.chunk.js.map",
     "index.html": "/wika-hb/index.html",
-    "precache-manifest.55ac1215532b83d2a621e9578bb7395c.js": "/wika-hb/precache-manifest.55ac1215532b83d2a621e9578bb7395c.js",
+    "precache-manifest.832db9ad64697ddd44ee843117c298fb.js": "/wika-hb/precache-manifest.832db9ad64697ddd44ee843117c298fb.js",
     "service-worker.js": "/wika-hb/service-worker.js",
-    "static/css/main.d58ba327.chunk.css.map": "/wika-hb/static/css/main.d58ba327.chunk.css.map",
+    "static/css/main.0e35f35f.chunk.css.map": "/wika-hb/static/css/main.0e35f35f.chunk.css.map",
     "static/js/2.f4150b10.chunk.js.LICENSE.txt": "/wika-hb/static/js/2.f4150b10.chunk.js.LICENSE.txt",
     "static/media/ballons.png": "/wika-hb/static/media/ballons.b19bbf88.png",
     "static/media/hb-text.png": "/wika-hb/static/media/hb-text.5eaefafa.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.8f2a3e52.js",
     "static/js/2.f4150b10.chunk.js",
-    "static/css/main.d58ba327.chunk.css",
-    "static/js/main.a65a7275.chunk.js"
+    "static/css/main.0e35f35f.chunk.css",
+    "static/js/main.a316d6fa.chunk.js"
   ]
 }
